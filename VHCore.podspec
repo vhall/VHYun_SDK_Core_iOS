@@ -2,13 +2,13 @@ Pod::Spec.new do |s|
   s.name            = "VHCore"
   s.version         = "2.0.3"
   s.author          = { "wangxiaoxiang" => "xiaoxiang.wang@vhall.com" }
-  s.license         = 'MIT'
-  s.homepage        = 'www.vhall.com'
-  s.source          = { :git => "https://github.com/vhall/VHYun_SDK_Core_iOS", :tag => s.version.to_s}
+  s.license         = { :type => "MIT", :file => "LICENSE" }
+  s.homepage        = 'https://www.vhall.com'
+  s.source          = { :git => "https://github.com/vhall/VHYun_SDK_Core_iOS.git", :tag => s.version.to_s}
   s.summary         = "iOS VHCore framework"
   s.platform        = :ios, '8.0'
   s.requires_arc    = true
-  s.source_files    = ''
+  #s.source_files    = ''
   s.frameworks      = 'Foundation'
   s.module_name     = 'VHCore'
   s.resources       = ['README.md']
