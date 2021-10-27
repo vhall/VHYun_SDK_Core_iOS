@@ -36,6 +36,13 @@ typedef NS_ENUM(NSInteger, VHLogLevel) {
  *  注册app
  *  @param appid  http://www.vhallyun.com/ 控制台中创建app 并设置包名 获得
  *  @param host   平台域名如api.vhallyun.com
+ */
++ (BOOL) registerApp:(NSString *)appid host:(NSString*)host;
+
+/**
+ *  注册app
+ *  @param appid  http://www.vhallyun.com/ 控制台中创建app 并设置包名 获得
+ *  @param host   平台域名如api.vhallyun.com
  *  @param completeBlock  SDK初始化成功回调， error 成功为 nil  如果不成功会5s重试一次
  */
 + (BOOL) registerApp:(NSString *)appid host:(NSString*)host completeBlock:(void(^)(NSError *error)) completeBlock;
