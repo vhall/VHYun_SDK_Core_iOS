@@ -47,6 +47,11 @@ typedef NS_ENUM(NSInteger, VHLogLevel) {
  */
 + (BOOL) registerApp:(NSString *)appid host:(NSString*)host completeBlock:(void(^)(NSError *error)) completeBlock;
 
+/// 准备使用美颜[必须]
+/// @param accessToken accesstoken
+/// @param completeBlock 返回结果
++ (void)prepareBeautifyWithAccessToken:(NSString *)accessToken completeBlock:(void(^)(NSError *error))completeBlock;
+
 /**
  *  设置第三方用户id  建议使用用户id保持唯一性
  *  @param third_party_user_id  第三方用户id 使用您的App登录后获得用户id即可 会使底层重新链接触发当前链接房间的上下线消息
