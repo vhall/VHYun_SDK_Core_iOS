@@ -47,10 +47,10 @@ typedef NS_ENUM(NSInteger, VHLogLevel) {
  */
 + (BOOL) registerApp:(NSString *)appid host:(NSString*)host completeBlock:(void(^)(NSError *error)) completeBlock;
 
-/// 准备使用美颜[必须]
-/// @param accessToken accesstoken
-/// @param completeBlock 返回结果
-+ (void)prepareBeautifyWithAccessToken:(NSString *)accessToken completeBlock:(void(^)(NSError *error))completeBlock;
+/// 更新美颜证书[前置获取认证信息]
+/// @param accessToken accessToken
+/// @param handle 返回结果
++ (void)updateBeatufiyLicenseWithAccessToken:(NSString *)accessToken completeBlock:(void(^)(NSError *error))handle;
 
 /**
  *  设置第三方用户id  建议使用用户id保持唯一性
@@ -120,4 +120,8 @@ typedef NS_ENUM(NSInteger, VHLogLevel) {
  */
 + (NSString *) getSDKVersion;
 
+@end
+
+@interface VHLiveBase (DeprecatedMethod)
++ (void)prepareBeautifyWithAccessToken:(NSString *)accessToken completeBlock:(void(^)(NSError *error))handle __deprecated_msg("请使用 +[VHLiveBase updateBeatufiyLicenseWithAccessToken:completeBlock:]");
 @end
