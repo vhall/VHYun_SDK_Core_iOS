@@ -47,9 +47,11 @@ typedef NS_ENUM(NSInteger, VHLogLevel) {
  */
 + (BOOL) registerApp:(NSString *)appid host:(NSString*)host completeBlock:(void(^)(NSError *error)) completeBlock;
 
-/// 更新美颜证书[前置获取认证信息]
-/// @param accessToken accessToken
-/// @param handle 返回结果
+/**
+ * 更新美颜证书[前置获取认证信息]
+ * @param accessToken accessToken
+ * @param handle 返回结果
+ */
 + (void)updateBeatufiyLicenseWithAccessToken:(NSString *)accessToken completeBlock:(void(^)(NSError *error))handle;
 
 /**
@@ -89,6 +91,12 @@ typedef NS_ENUM(NSInteger, VHLogLevel) {
  *  @param level  日志等级
  */
 + (void) setLogLevel:(VHLogLevel)level;
+
+/**
+ *  追加日志内容
+ *  @param dict 日志内容
+ */
++ (void)reportExtra:(NSDictionary *)dict;
 
 /**
  *  设置日志是否输出到控制台
