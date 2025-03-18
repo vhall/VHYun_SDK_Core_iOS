@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name      = "VHCore"
-  s.version   = "2.3.8"
+  s.version   = "2.3.9"
   s.summary   = "VHall iOS SDK #{s.name.to_s}"
   s.homepage  = 'https://www.vhall.com'
   s.author    = { "GuoChao" => "chao.guo@vhall.com" }
@@ -13,4 +13,5 @@ Pod::Spec.new do |s|
     'FRAMEWORK_SEARCH_PATHS' => '$(inherited) $(PODS_ROOT)/**',
     'HEADER_SEARCH_PATHS' => '$(inherited) $(PODS_ROOT)/**'
   }
+  s.dependency 'TXIMSDK_Plus_iOS'
 end

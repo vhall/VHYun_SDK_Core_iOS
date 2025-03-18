@@ -92,10 +92,19 @@ typedef NS_ENUM(NSInteger, VHLogLevel) {
  */
 + (void) setLogLevel:(VHLogLevel)level;
 
-/// 追加日志内容
-/// @param dict 日志内容
-/// @discussion 自主增加日志的内容，有效区间：已开始推流～即将结束推流
+/**
+ * 追加日志内容
+ * @param dict 日志内容
+ * @discussion 自主增加日志的内容，有效区间：已开始推流～即将结束推流
+ */
 + (void)reportExtra:(NSDictionary *)dict;
+
+/**
+ * 追加日志内容 立即上报
+ * @param k  kvalue
+ * @param dict 日志内容
+ */
++ (void)reportNow:(NSInteger)k dict:(NSDictionary *)dict;
 
 /**
  *  设置日志是否输出到控制台
