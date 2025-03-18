@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name      = "VHCore"
-  s.version   = "2.3.9"
+  s.version   = "2.4.0"
   s.summary   = "VHall iOS SDK #{s.name.to_s}"
   s.homepage  = 'https://www.vhall.com'
   s.author    = { "GuoChao" => "chao.guo@vhall.com" }
