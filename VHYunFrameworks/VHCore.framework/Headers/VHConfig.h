@@ -9,7 +9,7 @@
 #ifndef VHConfig_h
 #define VHConfig_h
 
-#define SDK_Version             @"2.3.9"
+#define SDK_Version             @"2.4.1"
 
 #define TEST_ENABLED            0 //是否输出测试数据  如:切换线路的对外输出
 
