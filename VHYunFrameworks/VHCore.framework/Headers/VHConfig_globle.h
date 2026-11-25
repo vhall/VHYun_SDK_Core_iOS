@@ -27,6 +27,10 @@
 #define VHAnalyticInteractiveInitKvalue @"282007"//互动模块舒适化
 #define VHAnalyticCreateDocKvalue       @"282009"//文档模块初始化
 
+
+#define VHAnalyticTXIMCreateKvalue       113119//TXIM模块初始化
+
+
 #define BCS_access_token        @"vhall"//现在基础模块是随便传
 
 #define VHALLNOTIFY_RESETSOCKET @"vhall_notify_resetsocket" //third_party_user_id 改变重连socketio并join

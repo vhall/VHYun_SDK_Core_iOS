@@ -18,7 +18,7 @@
 		</data>
 		<key>Headers/VHBaseCommunication.h</key>
 		<data>
-		d4LZCO59kjNjtjiUYsVHd3l3feg=
+		SLbXBOYFfyVHuS3xvwSC/Cw8/f8=
 		</data>
 		<key>Headers/VHChatServer.h</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Headers/VHConfig_globle.h</key>
 		<data>
-		f5sx+A7c2TywouVO0/8IJlFOLew=
+		Uz3SYXWvROSveS2dVcegfcrAYEs=
 		</data>
 		<key>Headers/VHCoreHeader.h</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Headers/VHLiveBase.h</key>
 		<data>
-		6MJfXyQVKp3viZGLk5tYhdHTxOo=
+		Yxn7beqwi6edFFhv/NFbZtMRjR0=
 		</data>
 		<key>Headers/VHLoger.h</key>
 		<data>
@@ -114,11 +114,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		PhlArrcxy2bS0o8KUhgooq2wPZQ=
+		k0pl/asQIndf2/FEra0/JVFmEz0=
 		</data>
 		<key>TXIMSDK_Plus_iOS_Privacy.bundle/Info.plist</key>
 		<data>
-		hkx/NGWUjg8n+qQhONc5i/Y34QA=
+		ZU4UpwESkZdrYSJNMetKiR/YyKA=
 		</data>
 		<key>TXIMSDK_Plus_iOS_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -129,10 +129,6 @@
 	<dict>
 		<key>Headers/IKeepAliveServer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wO/4nSFOyv4i+o76rpCzEYkym54=
-			</data>
 			<key>hash2</key>
 			<data>
 			qvWIXdtcFGZcRj08fpGUqprEtdNWVWm7M+XykjnbFUk=
@@ -140,10 +136,6 @@
 		</dict>
 		<key>Headers/VHAnalytic.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GxT2NkDbmYdCzPRv6lZCyxdTVBI=
-			</data>
 			<key>hash2</key>
 			<data>
 			C7tof/Hmg46RriYii9xieGBFFO9BPSVlNp9buolLU4Q=
@@ -151,10 +143,6 @@
 		</dict>
 		<key>Headers/VHAppInfo.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gzTI3jWv/GZvFF654APgX2lSuoI=
-			</data>
 			<key>hash2</key>
 			<data>
 			U4fF8uP0FDD6qbt54VCMMRPrrc2gcWIB3fqqEzkDwFY=
@@ -162,21 +150,13 @@
 		</dict>
 		<key>Headers/VHBaseCommunication.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			d4LZCO59kjNjtjiUYsVHd3l3feg=
-			</data>
 			<key>hash2</key>
 			<data>
-			ZxkWhbw+WbMoUNTA8Xxiv1AQ7r2PpSUcza0aaUMfwpY=
+			09Wu9s9BTLY6nvhRSWEtfwSsKcQUwSNmzubEux3suwg=
 			</data>
 		</dict>
 		<key>Headers/VHChatServer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4Yv6JUerX2dIcpDMUTt+QBSZYpU=
-			</data>
 			<key>hash2</key>
 			<data>
 			DgEvVBb9pqLqrZ61Rb3FZU8w0yQbpNUU8HzwpeovNJg=
@@ -184,10 +164,6 @@
 		</dict>
 		<key>Headers/VHCompatibilityMacros.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MWBWilsIN6FHYyT1eiVMq4zZ06Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			eErlbLYJRAY2eb+nIjTQnbx6X9CpIp1uz9dSe7cEhqM=
@@ -195,10 +171,6 @@
 		</dict>
 		<key>Headers/VHConfig.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qP4GLktMrALIx4RhoH+l5AjNneM=
-			</data>
 			<key>hash2</key>
 			<data>
 			Sn+i/0FtwfJUMrU9wK7XRlfWjJMW73OoyYvnYw5IgI8=
@@ -206,21 +178,13 @@
 		</dict>
 		<key>Headers/VHConfig_globle.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			f5sx+A7c2TywouVO0/8IJlFOLew=
-			</data>
 			<key>hash2</key>
 			<data>
-			g9IH6Ayn9LZQW/vqZd5CQc5ZZV7QHbthhUq1bZhXkvc=
+			7Ab7WzPwFnHzt13m3UjRbpAigZ9ZxrREgSxyF/leZro=
 			</data>
 		</dict>
 		<key>Headers/VHCoreHeader.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hjHdRcA/ZNskR0+wnyYYDT4J2mk=
-			</data>
 			<key>hash2</key>
 			<data>
 			0yxMX/OsWpoJ84TrxYmfTIWEIotlMHxJ9cCb78BGDl0=
@@ -228,10 +192,6 @@
 		</dict>
 		<key>Headers/VHError.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YUnvK1hmoP/WGasLaYnttNekhks=
-			</data>
 			<key>hash2</key>
 			<data>
 			R790Hql70mpDOnksjVTalSwayhDZVrD8ST16pWmeCrA=
@@ -239,10 +199,6 @@
 		</dict>
 		<key>Headers/VHHTTPSessionManager.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			GoWK45E6IcYOQ8li6JJ8wfPQYBM=
-			</data>
 			<key>hash2</key>
 			<data>
 			IGVxUx3NNj/cVTTkTyL/2H+hNsMTKNpu7kym/6BZEY4=
@@ -250,21 +206,13 @@
 		</dict>
 		<key>Headers/VHLiveBase.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6MJfXyQVKp3viZGLk5tYhdHTxOo=
-			</data>
 			<key>hash2</key>
 			<data>
-			2J0D/DHVbKyFjSUQS/IBGuxCOWf796A1hzcVovn2pL8=
+			2a733LRJ6b8DKadcwEVRgMsoLkly90iwchMlGmBY0GM=
 			</data>
 		</dict>
 		<key>Headers/VHLoger.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jfNJB67/D42iR0LYlWkC5a+/7wE=
-			</data>
 			<key>hash2</key>
 			<data>
 			JTwCT71kr+60GeLQJ5QO2egbRL9+EqO25OUJxvTE8is=
@@ -272,10 +220,6 @@
 		</dict>
 		<key>Headers/VHMessage.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			N3SRMg5pTVoTYVLm5VLYhhyZ0Pg=
-			</data>
 			<key>hash2</key>
 			<data>
 			JrqQBRV1G7NkpgrFxG5Fh58YKoDKil8OQGJAR70JIuc=
@@ -283,10 +227,6 @@
 		</dict>
 		<key>Headers/VHMessageServer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nRl8UFOS6UEfnq5hipdrCAyYFbg=
-			</data>
 			<key>hash2</key>
 			<data>
 			7sBeOtQQ2KEq3LxE4WeOWMz8tE7nEx8HkpLNghNYsPc=
@@ -294,10 +234,6 @@
 		</dict>
 		<key>Headers/VHMessageSubclass.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2OWp1AvBcm5zsqa3dZbOuXaWatw=
-			</data>
 			<key>hash2</key>
 			<data>
 			zZqZXnoIey3iyxaUu+px42wH+eQIIs0DD5Rq6ewyUj4=
@@ -305,10 +241,6 @@
 		</dict>
 		<key>Headers/VHNetworkReachabilityManager.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+GEUab+n60O+tDAVo5cFEAUxhc8=
-			</data>
 			<key>hash2</key>
 			<data>
 			AmhdwhtKl8GFwO/kAh+fd7KI4Nc6MCk0YNysawG6ySA=
@@ -316,10 +248,6 @@
 		</dict>
 		<key>Headers/VHNetworking.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			eMnHpwLC9pPyqCflzNQFoIUTuQM=
-			</data>
 			<key>hash2</key>
 			<data>
 			XPMbiQTAuFH3OvLHAzxGkMjKv7qE1NgOptthpiZ+Dlo=
@@ -327,10 +255,6 @@
 		</dict>
 		<key>Headers/VHNewAnalytic.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NMEyrfFaQBxHgBHxX0CRd/iL9vE=
-			</data>
 			<key>hash2</key>
 			<data>
 			3e4Mf6Oqhv4wHk/vXE9ty7sFYnkfUA26UCol/CYRWNk=
@@ -338,10 +262,6 @@
 		</dict>
 		<key>Headers/VHReporter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sYQFb9l3Z2XnFmgL3UFvQsLI3sg=
-			</data>
 			<key>hash2</key>
 			<data>
 			i/zDDTmpzPyRp8JOdzVGR0d4oFLJAi5gKdsT0BHG3bE=
@@ -349,10 +269,6 @@
 		</dict>
 		<key>Headers/VHReporterTokenBase.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			25qCfk1KsfMaFdVZ234wVL//0YU=
-			</data>
 			<key>hash2</key>
 			<data>
 			7KbYFEsoMvLICxQ21Gqp8VZkyaPNV7GksAig9LXchhE=
@@ -360,10 +276,6 @@
 		</dict>
 		<key>Headers/VHSecurityPolicy.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LdNmmXLWyFT2SqOR7FtKM8mD/ec=
-			</data>
 			<key>hash2</key>
 			<data>
 			DeP6TY15u2YxHbcYyPr1wWGQmKWcwYfXbhZMb227RKE=
@@ -371,10 +283,6 @@
 		</dict>
 		<key>Headers/VHTools.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fmnY6mKDK01ilofm87kMQZbEAbM=
-			</data>
 			<key>hash2</key>
 			<data>
 			KqTlTTbgNNx/t4SSN56n3PCDhfVITlNjzgM12g5ASoM=
@@ -382,10 +290,6 @@
 		</dict>
 		<key>Headers/VHURLRequestSerialization.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LRpLse/2vf03GNPELD16u6XZRVs=
-			</data>
 			<key>hash2</key>
 			<data>
 			yslZJZzD8/rhTwVymqYL4DUbCb0Lka/VQlIpoRsfuBw=
@@ -393,10 +297,6 @@
 		</dict>
 		<key>Headers/VHURLResponseSerialization.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QmHWz0oyEmEmvcJZoYeEZRhgsU0=
-			</data>
 			<key>hash2</key>
 			<data>
 			OQfu6hLQ9UmErbccrJUqB8DyIFV5VnW2DDDmnMg/ox8=
@@ -404,10 +304,6 @@
 		</dict>
 		<key>Headers/VHURLSessionManager.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mzx5wopCpvQzxCFP3ZFwQS6tPCg=
-			</data>
 			<key>hash2</key>
 			<data>
 			Iz6U5bDGyaWEGDuERwFDinSWYfaLhMfpGpWffxocqME=
@@ -415,10 +311,6 @@
 		</dict>
 		<key>Headers/VHWebService.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MixR3ZXVGLh2EasN0hJgvWamGJA=
-			</data>
 			<key>hash2</key>
 			<data>
 			7luMZ9OHyiOjkyOQtS7aU9d8md5d03aEs5/+L82E11k=
@@ -426,21 +318,13 @@
 		</dict>
 		<key>TXIMSDK_Plus_iOS_Privacy.bundle/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hkx/NGWUjg8n+qQhONc5i/Y34QA=
-			</data>
 			<key>hash2</key>
 			<data>
-			bOEAK0thg+Fp9SpAW7Kp3AyU5g3bTVHqqidjduJY+98=
+			O3FidIHy4iQ9/pXwddWLGRnrVhTmQrFS4R+AFTlQCkU=
 			</data>
 		</dict>
 		<key>TXIMSDK_Plus_iOS_Privacy.bundle/PrivacyInfo.xcprivacy</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IHdy45xMwMDZDccZgptM9E0CwrA=
-			</data>
 			<key>hash2</key>
 			<data>
 			fxSkj0w8/FWeR0ZrD2iUkKPtdPXY28xENrSwrQuVShM=

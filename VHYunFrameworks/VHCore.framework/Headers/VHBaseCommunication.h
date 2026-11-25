@@ -20,6 +20,7 @@ typedef void(^SetThirdPartyUserIdBlock)(NSError *error);
 - (void)initStartSDKToAccessToken:(NSString *)accessToken;
 - (void)initStartSDKToAccessToken:(NSString *)access_token handle:(void(^)(NSDictionary *data))handle;
 
+
 //@property (nonatomic,strong)RegisterAppCompleteBlock completeBlock;
 @property (nonatomic,strong)SetThirdPartyUserIdBlock setThirdPartyUserIdBlock;
 

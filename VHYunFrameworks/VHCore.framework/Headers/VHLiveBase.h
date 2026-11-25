@@ -54,6 +54,7 @@ typedef NS_ENUM(NSInteger, VHLogLevel) {
  */
 + (void)updateBeatufiyLicenseWithAccessToken:(NSString *)accessToken completeBlock:(void(^)(NSError *error))handle;
 
+
 /**
  *  设置第三方用户id  建议使用用户id保持唯一性
  *  @param third_party_user_id  第三方用户id 使用您的App登录后获得用户id即可 会使底层重新链接触发当前链接房间的上下线消息
