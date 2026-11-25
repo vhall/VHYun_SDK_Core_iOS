@@ -1,12 +1,12 @@
 Pod::Spec.new do |s|
   s.name      = "VHCore"
-  s.version   = "2.4.8"
+  s.version   = "2.4.9"
   s.summary   = "VHall iOS SDK #{s.name.to_s}"
   s.homepage  = 'https://www.vhall.com'
   s.author    = { "GuoChao" => "chao.guo@vhall.com" }
   s.license   = { :type => "MIT", :file => "LICENSE" }
   s.source    = { :git => "https://github.com/vhall/VHYun_SDK_Core_iOS.git", :tag => s.version.to_s}
-  s.platform  = :ios, '9.0'
+  s.platform  = :ios, '15.0'
   s.module_name = "#{s.name.to_s}"
   s.vendored_frameworks = 'VHYunFrameworks/*.framework'
   s.pod_target_xcconfig = {
